@@ -1,0 +1,3 @@
+# spa-react-useState-medium
+
+Erstellen Sie eine To-Do-Liste-Webanwendung, die es dem Benutzer ermöglicht, Aufgaben hinzuzufügen, zu bearbeiten und zu löschen. Die Anwendung sollte ein Eingabefeld für das Hinzufügen neuer Aufgaben haben und eine Liste aller vorhandenen Aufgaben anzeigen. Für jede Aufgabe in der Liste sollte der Benutzer die Möglichkeit haben, sie zu bearbeiten oder zu löschen. Wenn der Benutzer eine Aufgabe zum Bearbeiten auswählt, sollte ein Eingabefeld angezeigt werden, in dem die Aufgabe bearbeitet werden kann. Nachdem der Benutzer die Bearbeitung abgeschlossen hat, sollte die aktualisierte Aufgabe gespeichert werden.
